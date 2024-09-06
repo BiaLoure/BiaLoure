@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Degree in IT Technician for Internet and actually graduating at bachelor's degree in computer science.<br><br>🌱 I’m currently learning React and Python.<br><br>📫 Reach me on:</p>
+<p align="left">📚 Degree in IT Technician for Internet and actually graduating at bachelor's degree in computer science.<br><br>🌱 I’m currently learning React and Python.<br><br>📫 Reach me on LinkedIn or E-mail biancaemilylourenco@gmail.com.</p>
 
 ###
 

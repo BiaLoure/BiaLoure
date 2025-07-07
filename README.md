@@ -30,7 +30,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
@@ -54,13 +53,7 @@
 
 <img align="right" height="120" src="https://media.tenor.com/m38BFcQuk0gAAAAi/plant.gif"  />
 
-###
 
-<div align="left" margin-right="20px">
-   <img src="https://github-readme-stats.vercel.app/api?username=BiaLoure&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false&hide_title=false&hide_rank=false&locale=en&disable_animations=false" />
-</div>
-
-###
 
 <!--
 **BiaLoure/BiaLoure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

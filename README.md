@@ -7,12 +7,20 @@
 ###
 
 <p align="left">
-🎓 Currently in my 7th semester of a Bachelor's degree in Computer Science at IFSP.<br><br>
-💻 Technical degree in Web Development (ETEC), with hands-on experience in full stack projects.<br><br>
-🚀 I'm focused on building responsive web applications using Angular, REST APIs, MySQL, and clean code practices.<br><br>
-🔍 Exploring new skills in back-end development with Java + Spring Boot and cloud environments (AWS).<br><br>
-🤝 Used to working in agile teams (Scrum/Kanban) and collaborating with GitHub version control.<br><br>
-📬 Reach me at: <strong>biancaemilylourenco@gmail.com</strong>
+🎓 Bachelor’s degree in Computer Science (IFSP).
+
+💻 Background in Web Development, with experience in full stack projects involving front-end, back-end and UI design.
+
+🎨 Experience working at the intersection of software development and UI/UX, creating responsive interfaces, wireframes and prototypes focused on usability and technical feasibility.
+
+🚀 Hands-on experience building web applications using Angular, REST APIs, relational databases (MySQL) and clean code practices.
+
+🔍 Familiar with back-end development using Java + Spring Boot, APIs integration and basic cloud concepts (AWS).
+
+🤝 Used to working in agile teams (Scrum/Kanban), collaborating through Git and GitHub.
+
+📬 Contact: biancaemilylourenco@gmail.com  
+🌐 Portfolio: https://portifolio-eta-liard.vercel.app/
 </p>
 
 ###

@@ -20,7 +20,7 @@
 🤝 Used to working in agile teams (Scrum/Kanban), collaborating through Git and GitHub.
 
 📬 Contact: biancaemilylourenco@gmail.com  
-🌐 Portfolio: https://portifolio-eta-liard.vercel.app/
+🌐 Portfolio: https://portfolio-bianca-lourenco.vercel.app/
 </p>
 
 ###
